@@ -71,7 +71,7 @@ This project is built using the **Model-View-Controller (MVC)** architecture.
 
 | Name | Student ID | Email | Role |
 |-----|-----------|-------|------|
-| Robert-Dominic Calinescu | Your ID | yourname@uregina.ca | Developer / Project Manager |
+| Robert-Dominic Calinescu | 200492232 | rcr492@uregina.ca | Developer / Project Manager |
 | Peyton Bowen | ID | member2@uregina.ca | Developer |
 | Harleen Kaur | ID | member3@uregina.ca | Developer |
 | Abraham Omoregie | ID | member4@uregina.ca | Developer |

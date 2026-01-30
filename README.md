@@ -1,8 +1,7 @@
 # UR Clubs (Group C)
 
-**Course:** ENSE 281 – Software Systems Engineering  
+**Course:** ENSE 281 – Software Engineering Management
 **Semester:** Winter 2026  
-**License:** MIT / Apache 2.0 / GPL (choose one)
 
 ---
 
@@ -11,29 +10,6 @@
 UR Clubs is a web-based software application designed to centralize student club management, event tracking, and membership communication at the University of Regina.
 
 Developed as a group project for **ENSE 281**, this application follows a **Domain-Driven Design (DDD)** approach and implements the **Model-View-Controller (MVC)** architectural pattern. The project simulates a real-world software engineering environment using **Agile/Scrum methodologies**, iterative development, and collaborative project management through **GitHub**.
-
----
-
-## 👥 Team Members
-
-| Name | Student ID | Email | Role |
-|-----|-----------|-------|------|
-| Your Name | Your ID | yourname@uregina.ca | Developer / Project Manager |
-| Member 2 | ID | member2@uregina.ca | Developer |
-| Member 3 | ID | member3@uregina.ca | Developer |
-| Member 4 | ID | member4@uregina.ca | Developer |
-
----
-
-## 🛠 Tech Stack & Architecture
-
-This project is built using the **Model-View-Controller (MVC)** architecture.
-
-- **Frontend (View):** HTML5, CSS3, Bootstrap 5, JavaScript  
-- **Backend (Controller):** PHP / Node.js / Python (Flask)  
-- **Database (Model):** MySQL / MongoDB  
-- **Hosting / Environment:** Localhost (XAMPP/WAMP) or Amazon Lightsail  
-- **Project Management:** GitHub Projects (Kanban Board)
 
 ---
 
@@ -76,4 +52,27 @@ We are following an **Agile/Scrum** development process with defined milestones:
 - **Milestone 2:** MVP Release 1 (Core Functionality)
 - **Milestone 3:** Final Polish & Documentation  
   *Due: April 2026*
+
+---
+
+## 🛠 Tech Stack & Architecture
+
+This project is built using the **Model-View-Controller (MVC)** architecture.
+
+- **Frontend (View):** HTML5, CSS3, Bootstrap 5, JavaScript  
+- **Backend (Controller):** PHP / Node.js / Python (Flask)  
+- **Database (Model):** MySQL / MongoDB  
+- **Hosting / Environment:** Localhost (XAMPP/WAMP) or Amazon Lightsail  
+- **Project Management:** GitHub Projects (Kanban Board)
+
+---
+
+## 👥 Team Members
+
+| Name | Student ID | Email | Role |
+|-----|-----------|-------|------|
+| Your Name | Your ID | yourname@uregina.ca | Developer / Project Manager |
+| Member 2 | ID | member2@uregina.ca | Developer |
+| Member 3 | ID | member3@uregina.ca | Developer |
+| Member 4 | ID | member4@uregina.ca | Developer |
 
